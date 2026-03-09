@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "morroisthegoat.aternos.me",
+    "port": 52658,
     "version": "1.21.1"
   },
   "position": {
@@ -64,8 +64,8 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
-    "chat": true,
+    "beds": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
@@ -73,8 +73,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
